@@ -1,0 +1,16 @@
+[tools]
+ast-grep = "latest"
+bun = "latest"
+dotnet = "latest"
+java = "zulu-25"
+julia = "latest"
+k3d = "latest"
+kubectl = "latest"
+node = "lts"
+"npm:@shopify/cli" = "latest"
+rust = "stable"
+zig = "latest"
+zigmod = "latest"
+
+[settings]
+idiomatic_version_file_enable_tools = ["node"]

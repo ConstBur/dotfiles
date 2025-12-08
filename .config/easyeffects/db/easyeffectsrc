@@ -1,0 +1,29 @@
+[Presets]
+lastLoadedInputPreset=Mic Boost and Noise Cancel
+lastLoadedOutputPreset=Sony EQ
+
+[StreamInputs]
+inputDevice=alsa_input.usb-Audio_Technica_Corp_ATR2100x-USB_Microphone-00.analog-stereo
+mostUsedPresets=Mic Boost and Noise Cancel
+plugins=rnnoise#0,gate#0,deesser#0,compressor#0,equalizer#0,speex#0,limiter#0,loudness#0
+usedPresets=Mic Boost and Noise Cancel:5
+visiblePage=pluginsPage
+visiblePlugin=loudness#0
+
+[StreamOutputs]
+mostUsedPresets=Sony EQ
+outputDevice=alsa_output.pci-0000_03_00.1.hdmi-stereo
+plugins=equalizer#0
+usedPresets=Sony EQ:11
+visiblePage=pluginsPage
+visiblePlugin=equalizer#0
+
+[Window]
+autostartOnLogin=true
+height=1044
+lastLoadedInputCommunityPackage=jtrv-Presets
+lastLoadedInputPreset=EasyEffects Microphone Preset: Masc NPR Voice + Noise Reduction
+lastLoadedOutputPreset=Bass Enhancing + Perfect EQ
+visiblePipeWirePage=clientsPage
+visiblePresetSheetPage=autoloadingPage
+width=1920
