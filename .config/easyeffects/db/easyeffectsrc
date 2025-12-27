@@ -6,7 +6,7 @@ lastLoadedOutputPreset=Sony EQ
 inputDevice=alsa_input.usb-Audio_Technica_Corp_ATR2100x-USB_Microphone-00.analog-stereo
 mostUsedPresets=Mic Boost and Noise Cancel
 plugins=rnnoise#0,gate#0,deesser#0,compressor#0,equalizer#0,speex#0,limiter#0,loudness#0
-usedPresets=Mic Boost and Noise Cancel:5
+usedPresets=Mic Boost and Noise Cancel:16
 visiblePage=pluginsPage
 visiblePlugin=loudness#0
 
@@ -14,7 +14,7 @@ visiblePlugin=loudness#0
 mostUsedPresets=Sony EQ
 outputDevice=alsa_output.pci-0000_03_00.1.hdmi-stereo
 plugins=equalizer#0
-usedPresets=Sony EQ:11
+usedPresets=Sony EQ:41
 visiblePage=pluginsPage
 visiblePlugin=equalizer#0
 

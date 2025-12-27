@@ -37,6 +37,7 @@ font-size = 14
 theme = Flexoki Dark
 link-url = true
 window-decoration = auto
+mouse-scroll-multiplier = 1
 shell-integration-features = true
 command = /home/constbur/.config/ghostty/startup.sh
 #
